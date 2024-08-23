@@ -19,17 +19,25 @@ You can:
 
 Clone the repo and run `pnpm install` in the root directory
 
+Bash:
+
 ```bash
-# bash
 git clone https://github.com/Jemeni11/ReactViteTS.git && cd ReactViteTS && pnpm install
 ```
 
+Powershell:
+
 ```powershell
-# powershell
 git clone https://github.com/Jemeni11/ReactViteTS.git; cd ReactViteTS; pnpm install
 ```
 
+<br/>
+<br/>
+
 or click on the `use this template` button and pick whatever option you prefer
+
+<br/>
+<br/>
 
 ![Screenshot of this repo's github page](https://raw.githubusercontent.com/Jemeni11/hosting-pics/main/Use%20this%20template.png)
 
