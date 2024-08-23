@@ -15,31 +15,31 @@ This is a vite template with the following installed:
 
 ## Installation
 
-You can:
+You can either:
 
-Clone the repo and run `pnpm install` in the root directory
+- Clone the repo and run `pnpm install` in the root directory
 
-Bash:
+  Bash:
+  
+  ```bash
+  git clone https://github.com/Jemeni11/ReactViteTS.git && cd ReactViteTS && pnpm install
+  ```
 
-```bash
-git clone https://github.com/Jemeni11/ReactViteTS.git && cd ReactViteTS && pnpm install
-```
+  Powershell:
+  
+  ```powershell
+  git clone https://github.com/Jemeni11/ReactViteTS.git; cd ReactViteTS; pnpm install
+  ```
 
-Powershell:
+  <br/>
+  <br/>
 
-```powershell
-git clone https://github.com/Jemeni11/ReactViteTS.git; cd ReactViteTS; pnpm install
-```
+- Or click on the `use this template` button and pick whatever option you prefer
 
-<br/>
-<br/>
+  <br/>
+  <br/>
 
-or click on the `use this template` button and pick whatever option you prefer
-
-<br/>
-<br/>
-
-![Screenshot of this repo's github page](https://raw.githubusercontent.com/Jemeni11/hosting-pics/main/Use%20this%20template.png)
+  <img width="945" alt="Screenshot of this repo's github page" src="https://github.com/user-attachments/assets/bc779b76-8c38-451f-91f3-6712ebff2860">
 
 ## Wait a minute, who are you?
 
