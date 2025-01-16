@@ -19,9 +19,8 @@ Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-  - [From PyPI (Using PIP)](#from-pypi-using-pip)
 - [Usage](#usage)
-  - [Examples](#examples)
+- [Examples](#examples)
 - [Why did I build this?](#why-did-i-build-this)
 - [Contributing](#contributing)
 - [Wait a minute, who are you?](#wait-a-minute-who-are-you)
@@ -42,10 +41,8 @@ list of features here
 
 ## Installation
 
-### From PyPI (Using PIP)
-
 ```
-pip install blahblahblah
+pnpm install blahblahblah
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -58,7 +55,7 @@ usage: whoop di scoop
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Examples
+## Examples
 
 wahhaaaaaa
 
@@ -81,11 +78,6 @@ Contributions are welcome! If you'd like to improve RepoName, please feel free t
 
 ## Wait a minute, who are you?
 
-if it's a python proj:
-Hello there! I'm Emmanuel Jemeni, and while I primarily work as a Frontend Developer,
-Python holds a special place as my first programming language.
-
-if it's a web project:
 Hello there! I'm Emmanuel Jemeni, and I am a Frontend Developer.
 
 You can find me on various platforms:
@@ -95,11 +87,14 @@ You can find me on various platforms:
 - [Twitter/X](https://twitter.com/Jemeni11_)
 - [Bluesky](https://bsky.app/profile/jemeni11.bsky.social)
 
+If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
+or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
-[What License are you using](LICENSE)
+[What License are you using bro?](LICENSE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
