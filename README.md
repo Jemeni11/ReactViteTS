@@ -3,15 +3,15 @@
 ## Introduction
 
 Hey!
-This is a vite template with the following installed:
+This is a Vite template with the following installed:
 
-- [Vite 5.4.1](https://vitejs.dev/)
-- [React 18.3.1](https://react.dev/)
-- [Typescript 5.5.3](https://www.typescriptlang.org/)
-- [TailwindCSS 3.4.10](https://tailwindcss.com/)
-- [Prettier 3.3.3](https://prettier.io/)
-- [prettier-plugin-tailwind 0.6.6](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-- [ESLint 9.9.0](https://eslint.org/)
+- [Vite 6.1.0](https://vite.dev/)
+- [React 19.0.0](https://react.dev/)
+- [Typescript 5.7.2](https://www.typescriptlang.org/)
+- [TailwindCSS 4.0.6](https://tailwindcss.com/)
+- [Prettier 3.5.1](https://prettier.io/)
+- [prettier-plugin-tailwind 0.6.11](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [ESLint 9.19.0](https://eslint.org/)
 
 ## Installation
 
@@ -48,6 +48,7 @@ Hello there! I'm Emmanuel Jemeni, and I work as a Frontend Developer. You can fi
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-jemeni)
 - [GitHub](https://github.com/Jemeni11)
 - [Twitter/X](https://twitter.com/Jemeni11_)
+- [Bluesky](https://bsky.app/profile/jemeni11.bsky.social)
 
 ## Vite-Specific Information
 
