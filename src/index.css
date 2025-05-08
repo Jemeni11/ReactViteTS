@@ -7,22 +7,22 @@
 @layer base {
   :root {
     font-family: system-ui, sans-serif;
-    line-height: 1.5;
-    font-weight: 400;
     font-size: 1rem;
-
-    font-synthesis: none;
-    text-rendering: optimizeLegibility;
+    font-weight: 400;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    line-height: 1.5;
+    text-rendering: optimizeLegibility;
+
+    font-synthesis: none;
   }
 
   *,
   *::before,
   *::after {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
   }
 
   img,
@@ -54,6 +54,7 @@
   p {
     text-wrap: pretty;
   }
+  
   h1,
   h2,
   h3,
