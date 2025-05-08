@@ -59,15 +59,14 @@ usage: whoop di scoop
 
 wahhaaaaaa
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Why did I build this?
 
 > [!WARNING]
 >
-> Whadya mean yah don't remember? 
-> 
+> Whadya mean yah don't remember?
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
@@ -98,8 +97,8 @@ or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## Changelog
+
 [Changelog](/CHANGELOG.md)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
