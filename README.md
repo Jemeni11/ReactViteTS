@@ -12,6 +12,8 @@ This is a Vite template with the following installed:
 - [Prettier 3.5.1](https://prettier.io/)
 - [prettier-plugin-tailwind 0.6.11](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [ESLint 9.19.0](https://eslint.org/)
+- [Stylelint v16](https://stylelint.io/)
+- lint-staged
 
 ## Installation
 
