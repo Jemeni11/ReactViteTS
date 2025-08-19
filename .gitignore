@@ -24,3 +24,4 @@ dist-ssr
 *.sw?
 
 diff.txt
+.eslintcache
