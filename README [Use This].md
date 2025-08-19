@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Jemeni11/RepoName"><img src="logo.png" alt="Logo" width="128" height="128"></a>
+  <a href="https://github.com/Jemeni11/RepoName"><img src="https://avatars.githubusercontent.com/u/52603291?v=4" alt="Logo" width="128" height="128"></a>
 
 <h3 align="center">RepoName</h3>
 
@@ -21,6 +21,7 @@ Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Examples](#examples)
+- [Built With](#built-with)
 - [Why did I build this?](#why-did-i-build-this)
 - [Contributing](#contributing)
 - [Wait a minute, who are you?](#wait-a-minute-who-are-you)
@@ -61,6 +62,21 @@ wahhaaaaaa
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Built With
+
+- [Vite v7](https://vite.dev/)
+- [React v19](https://react.dev/)
+- [Typescript v5](https://www.typescriptlang.org/)
+- [TailwindCSS v4](https://tailwindcss.com/)
+- [Prettier v3](https://prettier.io/)
+- [prettier-plugin-tailwind v0.6.14](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [ESLint v9](https://eslint.org/)
+- [Stylelint v16](https://stylelint.io/)
+- lint-staged
+- @ianvs/prettier-plugin-sort-imports v4
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Why did I build this?
 
 > [!WARNING]
@@ -83,8 +99,8 @@ You can find me on various platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/emmanuel-jemeni)
 - [GitHub](https://github.com/Jemeni11)
-- [Twitter/X](https://twitter.com/Jemeni11_)
 - [Bluesky](https://bsky.app/profile/jemeni11.bsky.social)
+- [Twitter/X](https://twitter.com/Jemeni11_)
 
 If you'd like, you can support me on [GitHub Sponsors](https://github.com/sponsors/Jemeni11/)
 or [Buy Me A Coffee](https://www.buymeacoffee.com/jemeni11).
