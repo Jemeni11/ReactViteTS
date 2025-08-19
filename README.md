@@ -5,15 +5,16 @@
 Hey!
 This is a Vite template with the following installed:
 
-- [Vite 6.1.0](https://vite.dev/)
-- [React 19.0.0](https://react.dev/)
-- [Typescript 5.7.2](https://www.typescriptlang.org/)
-- [TailwindCSS 4.0.6](https://tailwindcss.com/)
-- [Prettier 3.5.1](https://prettier.io/)
-- [prettier-plugin-tailwind 0.6.11](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-- [ESLint 9.19.0](https://eslint.org/)
+- [Vite v7](https://vite.dev/)
+- [React v19](https://react.dev/)
+- [Typescript v5](https://www.typescriptlang.org/)
+- [TailwindCSS v4](https://tailwindcss.com/)
+- [Prettier v3](https://prettier.io/)
+- [prettier-plugin-tailwind v0.6.14](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [ESLint v9](https://eslint.org/)
 - [Stylelint v16](https://stylelint.io/)
 - lint-staged
+- @ianvs/prettier-plugin-sort-imports v4
 
 ## Installation
 
