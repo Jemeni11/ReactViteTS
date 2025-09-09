@@ -52,6 +52,7 @@
   }
 
   p {
+    /* stylelint-disable-next-line plugin/use-baseline */
     text-wrap: pretty;
   }
 
@@ -61,6 +62,7 @@
   h4,
   h5,
   h6 {
+    /* stylelint-disable-next-line plugin/use-baseline */
     text-wrap: balance;
   }
 
