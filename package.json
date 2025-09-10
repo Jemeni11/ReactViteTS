@@ -15,6 +15,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@responsive-image/react": "^1.1.2",
     "@tailwindcss/vite": "^4.1.11",
     "create-stylelint": "^0.5.0",
     "react": "^19.1.0",
@@ -24,6 +25,8 @@
   "devDependencies": {
     "@eslint/js": "^9.31.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.5.1",
+    "@responsive-image/core": "^2.1.0",
+    "@responsive-image/vite-plugin": "^2.0.1",
     "@types/node": "^24.3.0",
     "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
