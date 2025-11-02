@@ -15,6 +15,7 @@ This is a Vite template with the following installed:
 - [Stylelint v16](https://stylelint.io/)
 - lint-staged
 - @ianvs/prettier-plugin-sort-imports v4
+- [eslint/you-might-not-need-an-effect plugin](https://github.com/NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect)
 
 ## Installation
 
