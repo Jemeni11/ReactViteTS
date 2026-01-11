@@ -1,6 +1,6 @@
 import { ResponsiveImage } from "@responsive-image/react";
 
-import LockScreen from "./lock-screen.jpeg?responsive";
+import LockScreen from "./lock-screen.png?responsive";
 
 export default function App() {
   return (
@@ -9,7 +9,7 @@ export default function App() {
         <p className="text-9xl font-black">Hello World</p>
         <span className="text-5xl font-bold">ReactViteTS</span>
         <div className="w-1/2">
-          <ResponsiveImage src={LockScreen} />
+          <ResponsiveImage src={LockScreen} alt="Image made with gradie.xyz" />
         </div>
       </div>
     </div>
