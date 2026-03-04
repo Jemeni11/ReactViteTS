@@ -10,7 +10,7 @@ This is a Vite template with the following installed:
 - [Typescript v5](https://www.typescriptlang.org/)
 - [TailwindCSS v4](https://tailwindcss.com/)
 - [Prettier v3](https://prettier.io/)
-- [prettier-plugin-tailwind v0.6.14](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+- [prettier-plugin-tailwind v0.7.2](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 - [ESLint v9](https://eslint.org/)
 - [Stylelint v16](https://stylelint.io/)
 - lint-staged
